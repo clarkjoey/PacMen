@@ -1,5 +1,5 @@
 # PacMan
-This is the PacMan project I learned how to build in Week 4 of my MIT masters certificate
+This is the PacMan project I learned how to build in Week 4 of my MIT masters certificate and then expanded on in week 7.
 
 ## Description: 
 This project is to recreate a famous arcade game and show how javascript can work with HTML to make a game. You'll see examples of variables, arrays, functions, and how they all work together. 
@@ -8,13 +8,12 @@ This project is to recreate a famous arcade game and show how javascript can wor
 No installation steps at this time.
 
 ## Usage: 
-This program should create a PacMan that bounces from wall to wall and open and closes it's mouth. The goal is to eventually add more elements to this code!
+This program should create a user defined amount of Pacmen that bounce from wall to wall. The walls are the size of the viewing window!
 
 ## Support: 
 Email: joeclarkedu@yahoo.com for support
 
 ## Roadmap: 
-* [Future addition of vertical movement
 * [Future addition of course
 * [Future addition of enemy ghosts
 
