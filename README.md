@@ -8,7 +8,7 @@ This project is to recreate a famous arcade game and show how javascript can wor
 No installation steps at this time.
 
 ## Usage: 
-https://clarkjoey.github.io/PacMan/index.html
+https://clarkjoey.github.io/PacMen/index.html
 
 ## Support: 
 Email: joeclarkedu@yahoo.com for support
